@@ -1,0 +1,485 @@
+body {
+   background-color: black;
+
+}
+.submitbtn {
+  margin-top: 30px;
+}
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+  border: 1px solid #535353;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(0, 255, 13);
+  border-radius: 10px;
+}
+.mini {
+  bottom: 10px;
+  left: 10px;
+  position: fixed;
+  background-color: black;
+  color: yellow;
+}
+.topnav {
+  color: rgb(0, 0, 0);
+  background-color: #534f4f;
+  
+}
+#mySearch {
+  padding: 4px;
+  padding-bottom: 6px;
+}
+#myMenu {
+  text-align: left;
+}
+.hide {
+  display: none;
+  text-align: left;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.btun {
+  margin-left: 0px;
+  margin-top: 42px;
+}
+.left {
+  background-color:#bbb;
+  border-style: double;
+  border-color: lightblue;
+  text-align: left;
+}
+.X {
+  margin-left: 1200px;
+  margin-top: -40px;
+}
+a{
+  border: 0.1px silver;
+  margin: 80px;
+  background-color: silver;
+  color: black;
+  cursor: help;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+  cursor: help;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+  cursor: help;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: gainsboro;
+  color: black;
+  cursor: help;
+}
+
+a:active {
+  text-decoration: none;
+  background-color: gainsboro;
+  color: black;
+}
+img{
+    margin: 50px;
+}
+.p {
+  color: white;
+}
+
+#demo {
+  color: white;
+}
+
+.hello{
+  margin-left: 700px;
+  margin-top: 30px;
+}
+.crown{
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  text-align: center;
+}
+.xanny {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  text-align: center;
+}
+.everything {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  text-align: center;
+  align-self: auto;
+}
+.bored {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -339px;
+  text-align: center;
+}
+.party {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px; /* Could be more or less, depending on screen size */
+  margin-top: -356px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.thereforiam {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px; /* Could be more or less, depending on screen size */
+  margin-top: -373px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.notimetodie {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px; /* Could be more or less, depending on screen size */
+  margin-top: -370px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.buryafriend  {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px; /* Could be more or less, depending on screen size */
+  margin-top: -359px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.lovely {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-top: 40px; /* Could be more or less, depending on screen size */
+  margin-left: 40px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.ocean {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-top: 40px; /* Could be more or less, depending on screen size */
+  margin-left: 40px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.Copycat {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-top: 40px; /* Could be more or less, depending on screen size */
+  margin-left: 40px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.badguy {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px; /* Could be more or less, depending on screen size */
+  margin-top: -359px; /* Could be more or less, depending on screen size */
+  text-align: center;
+}
+.Idontwannabeyouanymore {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 40px;
+  text-align: center;
+}
+.myfutur {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 40px;
+  text-align: center;
+}
+.allgoodgirlsgotohell {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 40px;
+  text-align: center;
+}
+.mystarngeaddiction {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 40px;
+  text-align: center;
+}
+.watch {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 40px;
+  text-align: center;
+}
+.bellyache {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+.myboy {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+.lovas {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.bitches {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+
+.broken {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.wish {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+.listen {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+.under {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+
+.hostage {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+.partyfavor {
+  width: 20em;
+  border: 2px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+.lyin {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+.eight {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+
+.older {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+.goodbye {
+  width: 20em;
+  border: 2px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+.yourpower {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.NDA {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 40px;
+  margin-top: 0px;
+  text-align: center;
+}
+.lostcause {
+  width: 20em;
+  border: 2px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: -350px;
+  text-align: center;
+}
+.dsam {
+  width: 17em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 850px;
+  margin-top: 40px;
+
+}
+
+.WWAFASWDWG {
+  width: 17em;
+  border: 2px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 50px;
+  margin-top: -370px;
+  text-align: center;
+}
+.HTE {
+  width: 17em;
+  border: 2px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: silver;
+  margin-left: 430px;
+  margin-top: -350px;
+  text-align: center;
+}
+.off {
+  color: white;
+}
